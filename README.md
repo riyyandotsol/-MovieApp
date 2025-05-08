@@ -94,8 +94,10 @@ Every time a user searches and selects a movie, it is logged in **Appwrite**. Th
 ---
 
 ## 📸 Screenshot
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
 
-![Screenshot of MovieApp](./Banner.svg)
 
 ---
 
@@ -116,4 +118,4 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 Let me know if you'd like a `CONTRIBUTING.md` or sample deploy instructions (like for Netlify or Vercel)!
 ```
 
->>>>>>> 400b51ea589098e1e09310a943baced843ab81b9
+
